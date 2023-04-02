@@ -1,0 +1,7 @@
+{
+    "name": "spenserhale/simple-queue",
+    "description": "A simple WordPress plugin to manage and process queued jobs from an API.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0+",
+    "require": {}
+}
